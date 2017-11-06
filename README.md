@@ -1,4 +1,4 @@
 # perfect_packing
 routing related
 
-fast recover from link failures
+fast recovery from link failures
